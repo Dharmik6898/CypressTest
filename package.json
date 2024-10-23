@@ -1,0 +1,16 @@
+{
+  "name": "cypressassessment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "cypress": "^13.15.0"
+  }
+}
